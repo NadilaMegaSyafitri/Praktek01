@@ -11,7 +11,9 @@ package praktek01;
  */
 public class BurungAksi {
     public static void main(String[] args) {
-        
+        Burung Merpati =  new Burung ();
+        Burung Merak =  new Burung ();
+        Burung Cendrawasih =  new Burung ();
     }
  
 }
