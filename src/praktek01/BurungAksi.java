@@ -36,6 +36,11 @@ public class BurungAksi {
         Cendrawasih.habitat_asal="Indonesia";
         Cendrawasih.warna_mata="coklat";
         Cendrawasih.panjang_cakar=2;
+        
+        
+        Merpati.caramakan();
+        Merak.caramakan();
+        Cendrawasih.caramakan();
     }
  
 }
